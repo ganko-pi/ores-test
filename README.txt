@@ -1,4 +1,4 @@
-This datapack was created to analyze the height distribution of ores.
+This is a datapack for Minecraft 1.17 and newer. It was created to analyze the height distribution of ores.
 
 How to use:
 All blocks which should be checked must be in the inventory.
